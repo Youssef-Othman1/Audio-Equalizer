@@ -8,7 +8,7 @@ User should input the following:
 3) Type of filters used (FIR-IIR)
 4) Output sample rate.
 
-What the program implement:
+What the program implements:
 1) Develop the frequency band filters in the following bands
 ( 0- 170 Hz) - ( 170- 310 Hz) - ( 310- 600 Hz) -( 600- 1000 Hz) -( 1- 3 KHz) - ( 3- 6 KHz) - ( 6- 12 KHz) - ( 12-14 KHz) - ( 14-16 KHz).
 2) Analyze and display these files (Gain, phase, impulse and step response, order and poles/zeros).
